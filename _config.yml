@@ -2,12 +2,13 @@ name: Evil Cupid
 favicon: null
 layout_spectrum: 0.14214834268204868
 typography_spectrum: 0.8518595688510686
+title: Evil Cupid
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-47259457-3
   facebook: null
   twitter: null
 opengraph:
