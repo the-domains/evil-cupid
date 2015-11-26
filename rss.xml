@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Evil Cupid]]></title>
+        <description><![CDATA[Evil Cupid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 Nov 2015 18:20:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing the system]]></title>
+            <description><![CDATA[<article><h1>Testing the system</h1><p>This is a test of this publishing system. It is a simple paragraph.  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/678d9acc-54fb-4085-be4d-4d05c6ce4e84.jpg"></article>]]></description>
+            <link>undefinedtesting-the-system/index.html</link>
+            <guid isPermaLink="false">4d5aa72a-4312-4c69-87ad-b4b5f81a5efc</guid>
+            <pubDate>Thu, 26 Nov 2015 18:20:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
