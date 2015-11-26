@@ -1,7 +1,7 @@
 name: Evil Cupid
 favicon: null
-layout_spectrum: 0.14214834268204868
-typography_spectrum: 0.8518595688510686
+layout_spectrum: 0.74315
+typography_spectrum: 0.20912
 title: Evil Cupid
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ecf0f1'
+    - '#32b4e4'
+    - '#e8443b'
+    - '#000000'
+    - '#00ff00'
   brandStrength: 0.21295875124633312
-  lightness: 0.3638129001483321
-  saturation: 0.03975760890170932
-  rhythmicContrast: 0.9496375741437078
+  lightness: 0.8125
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
